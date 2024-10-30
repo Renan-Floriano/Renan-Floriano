@@ -6,10 +6,10 @@
 ## 🖥️ Sobre Mim
 Olá! Eu sou o **Renan Floriano**, um entusiasta da tecnologia e desenvolvedor de software. Adoro explorar novas tecnologias e criar projetos incríveis.
 
- 🌱 Atualmente, estou aprendendo mais sobre desenvolvimento web.
- 💬 Pergunte-me sobre: HTML, CSS, JavaScript, Python, e mais!
- 📫 Como me encontrar: [contatorenanfloriano@outlook.com.br](mailto:contatorenanfloriano@outlook.com.br)
- ⚡ Fato divertido: Adoro estilizações com interações diferenciadas!
+- 🌱 Atualmente, estou aprendendo mais sobre desenvolvimento web.
+- 💬 Pergunte-me sobre: HTML, CSS, JavaScript, Python, e mais!
+- 📫 Como me encontrar: [contatorenanfloriano@outlook.com.br](mailto:contatorenanfloriano@outlook.com.br)
+- ⚡ Fato divertido: Adoro estilizações com interações 
 
 ## 🛠️ Tecnologias e Ferramentas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -26,19 +26,15 @@ Olá! Eu sou o **Renan Floriano**, um entusiasta da tecnologia e desenvolvedor d
 </div>
 
 ## 🌐 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-usuario/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/seu-usuario)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/renan-floriano/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Renan-Floriano)
+
+
+
 
 ---
 
-📝 **Licença**
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](https://github.com/seu-usuario/seu-projeto/blob/main/LICENSE) para mais detalhes.
-
----
-
-Feito com ❤️ por [Renan Floriano](https://github.com/seu-usuario)
+Feito  por [Renan Floriano](https://github.com/Renan-Floriano)
 </div>
 <div align="center">
-![Snake animation](https://github.com/Renan-Floriano/seu-repositorio/blob/output/github-contribution-grid-snake.svg)
 
