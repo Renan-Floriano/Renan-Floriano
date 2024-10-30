@@ -41,3 +41,4 @@ Feito com ❤️ por [Renan Floriano](https://github.com/seu-usuario)
 </div>
 <div align="center">
 ![Snake animation](https://github.com/Renan-Floriano/seu-repositorio/blob/output/github-contribution-grid-snake.svg)
+
