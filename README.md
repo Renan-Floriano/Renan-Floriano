@@ -1,7 +1,7 @@
 <div align="center">
 # 🌟 Minha Página de Projetos no GitHub 🌟
 
-![Banner](caminho/para/seu/banner.jpg)
+
 
 ## 🖥️ Sobre Mim
 Olá! Eu sou o **Renan Floriano**, um entusiasta da tecnologia e desenvolvedor de software. Adoro explorar novas tecnologias e criar projetos incríveis.
